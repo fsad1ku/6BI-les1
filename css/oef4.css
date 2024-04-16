@@ -1,13 +1,12 @@
-/* OEFENING 4: verschillende opmaakkenmerken naargelang schermgrootte
-- tot 768px:
-        - tekst en afbeelding staan onder elkaar
-        - tekst en afbeelding neemt hele breedte van het scherm
+/* OEFENING 4: verschillende opmaakkenmerken krijgt naargelang de grootte
+- tot 768px
+    - tekst en afbeelding staan onder elkaar
+    - tekst en afbeelding neemt hele breedte van het scherm
     in
-        - tekst heeft padding aan zijkanten van 20px
-        - tekst en afbeelding staan centraal uitgelijnd
-- groter dan 768px
-        - tekst en afbeelding staan naast elkaar
-        - tekst en afbeelding nemen beide breedte in van 50%
-        - afbeelding heeft een maximale breedte van 400px
-        - tekst en afbeelding staan links uitgelijnd
+    - tekst heeft padding aan zijkanten van 20px
+    - tekst en afbeelding staan centraal uitgelijnd
+- vanaf 768px
+    - twee films staan naast elkaar
+    - gap tussen films is 20px
+
 */

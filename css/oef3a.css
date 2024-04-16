@@ -1,0 +1,8 @@
+/* OEFENING 3A: verschillende opmaakkenmerken naargelang schermgrootte
+- tekst en afbeelding staan centraal uitgelijnd
+- tot 600px
+    - tekst en afbeelding nemen hele breedte van het scherm in
+    - tekst heeft padding aan zijkanten van 20px
+- groter dan 600px
+    - tekst en afbeelding hebben een maximale breedte van 600px
+*/

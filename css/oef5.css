@@ -1,12 +1,17 @@
-/* OEFENING 5: verschillende opmaakkenmerken krijgt naargelang de grootte
-- tot 768px
-    - tekst en afbeelding staan onder elkaar
-    - tekst en afbeelding neemt hele breedte van het scherm
-    in
-    - tekst heeft padding aan zijkanten van 20px
-    - tekst en afbeelding staan centraal uitgelijnd
-- vanaf 768px
-    - twee films staan naast elkaar
-    - gap tussen films is 20px
+/*
+OEFENING 5: positioneer de navigatie-elementen naast elkaar a.d.h.v. flexbox
+- de tekst staat centraal uitgelijnd
+- tussen de elementen is een gap van 20px
+- de vier navigatie-elementen nemen evenveel breedte in
+- de navigatie-elementen hebben een padding van 20px
 
+Uitbreiding 1
+- verwijder de onderlijnde tekst 
+- de navigatie-elementen in hoofdletters zetten zonder dat je dit in jouw HTML aanpast
+- de navigatie-elementen hebben tekstkleur zwart
+- als je hovert over de elementen, kleuren ze  rood
+
+Uitbreiding 2
+- de navigatie-elementen komen pas in flexbox vanaf 600px
+- als de schermgrootte kleiner is dan 600px, staan de elementen onder elkaar
 */
