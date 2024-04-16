@@ -1,0 +1,9 @@
+/*
+OEFENING 2A: verschillende achtergrondkleur naargelang de grootte
+- kleiner dan 600px: groene achtergrond
+- groter dan 600px: blauwe achtergrond
+*/
+
+h1 {
+  color: white;
+}
