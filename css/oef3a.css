@@ -6,3 +6,23 @@
 - groter dan 600px
     - tekst en afbeelding hebben een maximale breedte van 600px
 */
+
+body {
+  text-align: center;
+}
+
+@media screen and (max-width: 600px){
+  main, img {
+    width: 100%;
+  }
+  article {
+    padding: 0 20px;
+  }
+}
+
+@media screen and (min-width: 600px){
+  main, img {
+    width: 600px;
+    margin: 0 auto;
+  }
+}

@@ -3,4 +3,22 @@ OEFENING 2B:  verschillende achtergrondkleur naargelang de grootte
 - tot 768px: gele achtergrond
 - vanaf 768px tot 1024px: oranje achtergrond
 - groter dan 1025px: rode achtergrond
-*
+*/
+
+@media screen and (max-width: 768px) {
+  body {
+    background-color: yellow;
+  }
+}
+
+@media screen and (min-width: 768px) and (max-width: 1024px) {
+  body {
+    background-color: orange;
+  }
+}
+
+@media screen and (min-width: 1025px) {
+  body {
+    background-color: red;
+  }
+}

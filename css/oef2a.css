@@ -7,3 +7,15 @@ OEFENING 2A: verschillende achtergrondkleur naargelang de grootte
 h1 {
   color: white;
 }
+
+@media screen and (max-width: 600px) {
+  body {
+    background-color: green;
+  }
+}
+
+@media screen and (min-width: 600px){
+  body {
+    background-color: blue;
+  }
+}
