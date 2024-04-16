@@ -1,8 +1,7 @@
 /* OEFENING 3B: verschillende opmaakkenmerken naargelang schermgrootte
 - tot 768px:
         - tekst en afbeelding staan onder elkaar
-        - tekst en afbeelding neemt hele breedte van het scherm
-    in
+        - tekst en afbeelding nemen hele breedte van het scherm in
         - tekst heeft padding aan zijkanten van 20px
         - tekst en afbeelding staan centraal uitgelijnd
 - groter dan 768px
