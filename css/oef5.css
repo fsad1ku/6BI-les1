@@ -1,17 +1,22 @@
 /*
-OEFENING 5: positioneer de navigatie-elementen naast elkaar a.d.h.v. flexbox
-- de tekst staat centraal uitgelijnd
-- tussen de elementen is een gap van 20px
-- de vier navigatie-elementen nemen evenveel breedte in
+OEFENING 5
+globale opmaakkenmerken
+- de links hebben een gele achtergrondkleur
 - de navigatie-elementen hebben een padding van 20px
 
-Uitbreiding 1
-- verwijder de onderlijnde tekst 
-- de navigatie-elementen in hoofdletters zetten zonder dat je dit in jouw HTML aanpast
-- de navigatie-elementen hebben tekstkleur zwart
-- als je hovert over de elementen, kleuren ze  rood
+opmaakkenmerken tot 600px
+- alle elementen staan onder elkaar in blokken
+- de tekst staat centraal uitgelijnd
 
-Uitbreiding 2
-- de navigatie-elementen komen pas in flexbox vanaf 600px
-- als de schermgrootte kleiner is dan 600px, staan de elementen onder elkaar
+opmaakkenmerken vanaf 600px
+- positioneer de navigatie-elementen naast elkaar a.d.h.v. flexbox
+- tussen de elementen is een gap van 20px
+- de vier navigatie-elementen nemen evenveel breedte in
+
+uitbreiding
+- de navigatie-elementen hebben tekstkleur zwart
+- verwijder de onderlijnde tekst van de links
+- de navigatie-elementen staan in hoofdletters 
+- als je hovert over de elementen, wordt de achtergrondkleur rood
+- de pagina “Over Ons” komt na contact
 */
